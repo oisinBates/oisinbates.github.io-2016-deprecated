@@ -14,7 +14,7 @@ url: "https://oisinbates.github.io/"
 
 # baseurl: /personal-jekyll-theme
 # baseurl: /oisinBates/oisinbates.github.io
-baseurl: https://github.com/oisinBates/personal-jekyll-theme.git
+baseurl: /oisinBates/personal-jekyll-theme.git
 # Google tracking id
 
 google-tracking-id: ""
