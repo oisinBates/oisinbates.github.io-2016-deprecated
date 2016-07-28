@@ -23,7 +23,7 @@ google-tracking-id: ""
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
@@ -144,25 +144,21 @@ email: "bates.oisin@gmail.com"
 # The author blurb goes underneath blog posts.
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "I am a Software Developer who studied at the University of Limerick. blurb yada yada yada"
-author_blurb_image: "/img/author.png"
+# # if the author_blurb is not set, then this feature is skipped
+# author_blurb: "I am a Software Developer who studied at the University of Limerick. blurb yada yada yada"
+# author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/oisinbates"
+  - title: "linkedin"
+    url: "https://ie.linkedin.com/in/oisinbates"
+  # - title: "rss"
+  #   url: "/feed.xml"
 
 ############
 # 404 page #
