@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Python twitter bot
 category: python 
-tags: [ 'tutorial' ]
+tags: 
 ---
 Python twitter bot
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 section-type: post
-title: bash college project
+title: bash media timer project
 category: bash 
-tags: [ 'tutorial' ]
+tags: 
 ---
 bash project
 

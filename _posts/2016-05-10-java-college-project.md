@@ -1,9 +1,9 @@
 ---
 layout: post
 section-type: post
-title: java hello world
-category: java college project
-tags: [ 'tutorial' ]
+title: java word count project
+category: java
+tags: 
 ---
 
 java college project

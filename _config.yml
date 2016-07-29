@@ -32,7 +32,7 @@ force-https: False
 lang: "en"
 author: "Oisín Bates"
 title: "Oisín Bates"
-description: "Blog and website of Oisín Bates, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of Oisín Bates."
 keywords: "oisin, bates, personal, jekyll, theme"
 favicon: "/img/ic_code_black.png"
 
@@ -93,16 +93,16 @@ post-preview-words: 96
 
 paginate: 5
 
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+# email-share: True
+# fb-share: True
+# twitter-share: True
+# linkedin-share: True
+# reddit-share: True
+# google-plus-share: True
+# tumblr-share: True
+# pinterest-share: True
+# pocket-share: True
+# vkontakte-share: True
 
 #disqus-shortname: "oisinBates"
 
@@ -116,10 +116,10 @@ events:
   #Logos used in low resolution, for informational purposes only, under a fair-use rationale.
   - image: "/img/timeline/elEx.jpg"
     date: "May 2016 - June 2016"
-    description: "writing code bai"
+    description: "Internship"
   - image: "/img/timeline/UL.jpg"
     date: "September 2015 - May 2016"
-    description: "Guzzling cans of Dutch Gold behind the Stables"
+    description: "College"
   - image: "/img/timeline/lbg.jpg"
     date: "January 2015 - July 2015"
     description: "Working on a Payment Protection Insurance contract for Lloyds Banking Group products"
