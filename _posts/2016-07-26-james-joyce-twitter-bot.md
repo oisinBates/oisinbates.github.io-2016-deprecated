@@ -14,5 +14,4 @@ The project is hosted on an AWS EC2 instance, running on a cronjob every 3 hours
 The twitter account can be viewed at [twitter.com/randomUlysses](https://twitter.com/randomUlysses)
 The Git repository for this project can be viewed [here](https://github.com/oisinBates/JamesJoyceUlyssesTwitterBot).
 
-*post in draft stage, more to come.
-In one sense the very act of tweeting a 96-year old novel via Twitter was a clashing of worlds, Twitter users had many distractions so I had to get to the point. It was tempting to fit 500+ words in a single tweet, but this was refined so as to offer short easily-scannable passages which could be quickly skimmed.
+
