@@ -15,7 +15,6 @@ This project was a solution to a personal predicament; I enjoyed the convenience
 This script plays radio and music files on a timer as part of a bedtime routine, logging user habits to a MySQL database. It takes two parameters:
 
 $1: Length in minutes for playing radio.
-
 $2: Length of time the user wishes to sleep for(in hours, up to two decimal places permitted).
 
 #### Script Structure:

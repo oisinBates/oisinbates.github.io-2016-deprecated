@@ -1,8 +1,8 @@
 ---
 layout: post
 section-type: post
-title: android 
-category: Android Bitcoin App
+title: Android Bitcoin App
+category: android
 tags: 
 ---
 
