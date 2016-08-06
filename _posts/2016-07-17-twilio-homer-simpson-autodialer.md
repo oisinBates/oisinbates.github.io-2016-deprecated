@@ -11,4 +11,4 @@ Ultimately it stood as a good excuse to work on a project with Twilio and and No
 
 It's said that 'with great power comes great responsibility'. I figure it worth adding *great consequences* to that, and of course in that sense it's worth noting that this project was only used to call a select handful of friends and not to spam the public.
 
-I used 
+*post in draft stage, more to come
