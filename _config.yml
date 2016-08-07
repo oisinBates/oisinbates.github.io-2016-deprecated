@@ -18,7 +18,7 @@ url: "https://oisinbates.github.io/"
 #baseurl: /oisinbates.github.io
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-82049973-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
