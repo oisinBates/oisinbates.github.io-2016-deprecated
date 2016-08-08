@@ -117,16 +117,16 @@ events:
   #Logos used in low resolution, for informational purposes only, under a fair-use rationale.
   - image: "/img/timeline/elEx.jpg"
     date: "May 2016 - June 2016"
-    description: "Software Development Internship. Worked on a serverless solution for contacting clients by phone and text."
+    description: "*Software Development Internship*<br> Worked on a serverless solution for contacting clients by phone and text."
   - image: "/img/timeline/UL.jpg"
     date: "September 2015 - May 2016"
-    description: "Higher Diploma in Software Development. Extra-curricular volunteering with local Coder Dojo project."
+    description: "*Higher Diploma in Software Development*<br> Extra-curricular volunteering with local Coder Dojo project."
   - image: "/img/timeline/lbg.jpg"
     date: "January 2015 - July 2015"
-    description: "Worked on contract, reviewing missale complaints on Payment Protection Insurance products."
+    description: "*PPI Review Assesor*<br>Worked on contract, reviewing missale complaints on Payment Protection Insurance(PPI) products."
   - image: "/img/timeline/UL.jpg"
     date: "2013 - 2014"
-    description: "Masters dissertation on policing during the Anglo-Irish War. A chapter is chosen for publication in the academic journal <i>History Studies</i>."
+    description: "*M.A. History* <br> Dissertation on policing during the Anglo-Irish War. A chapter was chosen for publication in the academic journal *History Studies*."
 
 # First image of the Timeline
 
