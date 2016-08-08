@@ -14,6 +14,6 @@ Though image tweets offered greater flexibility in formatting text, it was still
 The process of writing text to images was facilitated by the Python Imaging Library, while the *Tweepy* API facilitated the task of uploading to Twitter.
 Joyce portraits can be sourced under a Universal Creative Commons license from [archive.org](https://archive.org/details/JamesJoyceVariousPhotos), while the text of Ulysses is freely available at [gutenberg.org](http://www.gutenberg.org/ebooks/4300). Similiary, Twitter's vector logos and branding guidelines are freely available at [brand.twitter.com](https://brand.twitter.com/).
 
-The project is hosted on an AWS EC2 instance, running on a cronjob every 3 hours.
+The project is hosted on an AWS EC2 instance, running on a cron job so as to tweet every 3 hours.
 The twitter account can be viewed at [twitter.com/randomUlysses](https://twitter.com/randomUlysses)
 The Git repository for this project can be viewed [here](https://github.com/oisinBates/JamesJoyceUlyssesTwitterBot).
