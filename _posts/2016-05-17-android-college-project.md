@@ -5,7 +5,6 @@ title: Android Bitcoin App
 category: android
 tags: 
 ---
-*post in draft stage, more to come
 
 This app was created as part of a group project for the University of Limerick module *CS4084 - Mobile Application Development*
 We were required to design and implement a *prototype* app which polled an API of our choosing. 
