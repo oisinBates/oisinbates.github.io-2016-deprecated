@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Collating and graphin Olympic data with Pandas and Bokeh
+title: Collating and graphing Olympic data with Pandas and Bokeh
 category: python 
 tags: 
 ---
