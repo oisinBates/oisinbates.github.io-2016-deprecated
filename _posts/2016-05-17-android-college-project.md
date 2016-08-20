@@ -6,8 +6,7 @@ category: android
 tags: 
 ---
 
-This app was created as part of a group project for the University of Limerick module *CS4084 - Mobile Application Development*
-We were required to design and implement a *prototype* app which polled an API of our choosing. We settled on the *Bitstamp* API as we shared an interest in cryptocurrencies.
+This app was created as part of a group project for the University of Limerick module *CS4084 - Mobile Application Development*. We were required to design and implement a *prototype* app which polled an API of our choosing. As we shared an interest in cryptocurrencies, we settled on the *Bitstamp* API 
 
 The objective of this module was to give a grounding not just in coding but in user interface design.
 As of such, alongside coding, I took an interest in the wireframing and design of the app. On my suggestion, we 
