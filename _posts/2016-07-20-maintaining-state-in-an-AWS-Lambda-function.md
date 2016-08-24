@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: twilio homer simpson autodialer
+title: maintaining state in an AWS Lambda function
 category: Node.js
 tags: 
 ---
