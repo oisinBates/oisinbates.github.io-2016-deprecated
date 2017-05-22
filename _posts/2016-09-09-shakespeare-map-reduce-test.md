@@ -48,7 +48,6 @@ From the command line, using the above python function, it was possible to analy
 
 
 Though it was tempting to trial the code on **big** data, I opted to keep costs to a minimum and uploaded a humble 14 books(10.5mb in txt format) to the cloud.
-12 minutes m1.medium
 
 With this sample the findings were as follows:
 

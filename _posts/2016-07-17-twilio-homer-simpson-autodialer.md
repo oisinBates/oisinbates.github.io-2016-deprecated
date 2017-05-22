@@ -10,7 +10,7 @@ As a big fan of *The Simpsons*, one of my first thoughts upon working with Twili
 Above all else though, it stood as a good excuse to work on a project utilising a Node.js Express app with Twilio's API. 
 
 The Homer Simpsons soundbite was added to an AWS S3 bucket and made publicly accesible via url. 
-All other aspects of a call's lifecycle were managed from an Express app hosted on an AWS EC2 Ubuntu instance.
+All other aspects of a call's lifecycle were managed from an Express.js app hosted on an AWS EC2 Ubuntu instance.
 
 The Git repository for this project can be viewed [here](https://github.com/oisinBates/homerSimpsonAutodialer)
 
