@@ -90,7 +90,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 56
 
 paginate: 5
 
@@ -115,14 +115,17 @@ syntax-highlight: True
 
 events:
   #Logos used in low resolution, for informational purposes only, under a fair-use rationale.
+  - image: "/img/timeline/waratek.jpg"
+    date: "Nov. 2016 - May 2017"
+    description: "*Pre-Sales Support Engineer*<br>Tested, demoed, administered, and supported Proof of Concept environments for a Java Runtime Application Security product."
   - image: "/img/timeline/elEx.jpg"
     date: "May 2016 - June 2016"
     description: "*Software Development Internship*<br> Worked on a serverless solution for contacting clients by phone and text."
   - image: "/img/timeline/UL.jpg"
-    date: "September 2015 - May 2016"
+    date: "Sep. 2015 - May 2016"
     description: "*Higher Diploma in Software Development*<br> Extra-curricular volunteering with local Coder Dojo project."
   - image: "/img/timeline/lbg.jpg"
-    date: "January 2015 - July 2015"
+    date: "Jan. 2015 - July 2015"
     description: "*PPI Review Assesor*<br>Worked on contract, reviewing missale complaints on Payment Protection Insurance(PPI) products."
   - image: "/img/timeline/UL.jpg"
     date: "2013 - 2014"
@@ -171,9 +174,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+# keybase-username: johnsmith
+# keybase-in-social: True
+# keybase-in-footer: True
 
 ################################################################################
 
