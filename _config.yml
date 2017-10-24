@@ -206,3 +206,4 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+  - jekyll-redirect-from
