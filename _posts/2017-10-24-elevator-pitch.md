@@ -7,7 +7,9 @@ category: aws
 tags:
 ---
 Amazon Web Services' 'Polly' is a text-to-speech service which synthesizes speech that sounds like a human voice.
-As I was recently applying for a role which included the development of voice user interfaces on AWS, it seemed fitting to accompany my application with an elevator pitch, generated of course with Polly.
+
+Recently I have been travelling and meeting many new people, which naturally led to a joke that it'd be easier to have an automated elevator pitch.
+What began as a joke, came to seem a worthy challenge, so here's a professional overview, refined to 209 words.
 <br>
 <br>
 You can get an overview of some of Polly's voices by selecting from the options below.
